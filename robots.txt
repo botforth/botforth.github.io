@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://botforth.github.io/botforth.botforth
+Sitemap: https://botforth.github.io/app/botforth.botforth
+Sitemap: https://botforth.github.io/assets/botforth.botforth
+Sitemap: https://botforth.github.io/css/botforth.botforth
+Sitemap: https://botforth.github.io/includes/botforth.botforth
+Sitemap: https://botforth.github.io/item/botforth.botforth
+Sitemap: https://botforth.github.io/src/botforth.botforth
